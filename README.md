@@ -37,6 +37,7 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Kaydenvn/Kaydenvn/output/snake.svg" alt="Snake animation" />
 ---
 
 <h3 align="left">🤝 Connect with me</h3>
