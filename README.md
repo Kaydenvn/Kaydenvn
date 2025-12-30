@@ -37,10 +37,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaydenvn" height="180" alt="streak stats" />
-</div>
-
 ---
 
 <h3 align="left">🤝 Connect with me</h3>
