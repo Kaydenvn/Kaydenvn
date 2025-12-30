@@ -25,14 +25,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaydenvn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaydenvn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaydenvn&theme=tokyonight" alt="profile details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaydenvn&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaydenvn&theme=tokyonight" height="180" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaydenvn&theme=tokyonight&utcOffset=7" height="180" alt="productive time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kaydenvn&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="streak stats" />
 </div>
 
 ---
@@ -48,7 +54,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kaydenvn/Kaydenvn/output/snake.svg" alt="Snake animation" width="100%" />
