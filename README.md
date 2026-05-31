@@ -50,23 +50,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaydenvn&theme=tokyonight" alt="profile details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaydenvn&theme=tokyonight" height="180" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaydenvn&theme=tokyonight&utcOffset=7" height="180" alt="productive time" />
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Kaydenvn/Kaydenvn/output/snake.svg" alt="Snake animation" />
-
----
-
 <h3 align="left">🤝 Connect with me</h3>
 
 <div align="left">
