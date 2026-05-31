@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Tín Nguyen / Kayden 👋</h1>
+  <h1>Hi there, I'm Tin Nguyen / Kayden 👋</h1>
   <h3>Full-Stack & Mobile Developer from Vietnam 🇻🇳</h3>
 </div>
 
