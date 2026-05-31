@@ -12,7 +12,6 @@
   🚀 <b>Current focus:</b> AI agents, automation systems, scalable web apps, and mobile app delivery<br/>
   💻 <b>I love working with:</b> TypeScript, React, Next.js, NestJS, Expo, PostgreSQL, Docker<br/>
   🧠 <b>Also experienced with:</b> C# / .NET, Go, Redis, BullMQ, AWS, Kubernetes, Gitea CI/CD<br/>
-  📫 <b>Reach me:</b> <a href="mailto:elsatrungtin@gmail.com">elsatrungtin@gmail.com</a>
 </p>
 
 ---
